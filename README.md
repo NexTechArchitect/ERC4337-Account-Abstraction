@@ -191,7 +191,7 @@ While it implements core ERC-4337 features, it has not been formally audited. Do
 ---
 
 <div align="center">
-<b>Built with ❤️ by NEXTECHARHITECT</b>
+<b>Built with ❤️ by NexTechArchitect</b>
 
 
 
