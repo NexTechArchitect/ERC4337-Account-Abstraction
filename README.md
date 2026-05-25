@@ -183,12 +183,6 @@ The following tools and standards were used to build this project:
 
 ---
 
-## ⚠️ Disclaimer
-
-This repository is intended for **educational purposes and protocol exploration**.
-While it implements core ERC-4337 features, it has not been formally audited. Do not use this exact code in production without a thorough security review.
-
----
 
 <div align="center">
 <b>Built with ❤️ by NexTechArchitect</b>
