@@ -185,7 +185,7 @@ The following tools and standards were used to build this project:
 
 
 <div align="center">
-<b>Built with ❤️ by NexTechArchitect</b>
+<b>Built by NexTechArchitect</b>
 
 
 
